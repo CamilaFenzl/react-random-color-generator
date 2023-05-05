@@ -6,12 +6,10 @@
   align-items: center;
   justify-content: center;
   border-radius: 20px;
-  display: flex;
   flex-direction: column;
 }
 
 .App > div {
-  background-color: cornflowerblue;
   padding: 40px 20px;
   margin: 40px;
   border-radius: 20px;
