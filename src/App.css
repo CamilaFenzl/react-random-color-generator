@@ -2,7 +2,7 @@
   background-color: aquamarine;
   padding: 40px;
   margin: 40px;
-  height: 100px;
+  height: 100vh;
   align-items: center;
   justify-content: center;
   border-radius: 20px;
@@ -16,7 +16,6 @@
   width: 200px;
   height: 200px;
   text-align: center;
-  flex-direction: column;
 }
 
 .button-container {
@@ -28,4 +27,10 @@ button {
   border: none;
   margin-top: 150px;
   text-align: center;
+}
+
+.generated-color {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 32px;
 }
