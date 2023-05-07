@@ -1,26 +1,19 @@
 .App {
   background-color: aquamarine;
-  padding: 70px;
+  padding: 40px;
   margin: 40px;
+  height: 100vh;
   align-items: center;
   justify-content: center;
-  border-radius: 100px;
+  border-radius: 20px;
   flex-direction: column;
 }
 
 .App > div {
-  background-color: aquamarine;
   padding: 40px 20px;
-  margin: 100px;
-  border-radius: 70px;
+  margin: 40px;
+  border-radius: 20px;
   width: 200px;
   height: 200px;
-  text-align: center;
-}
-
-button {
-  background-color: aquamarine;
-  border: 50px;
-  margin-top: 200px;
   text-align: center;
 }
