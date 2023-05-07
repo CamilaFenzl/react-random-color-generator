@@ -16,6 +16,7 @@ export default function App() {
         <div>Generated Color: {color2}</div>
       </div>
       <div>Generated Color: {color1}</div>
+      <div>button</div>
     </div>
   );
 }

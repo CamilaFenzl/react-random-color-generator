@@ -17,12 +17,3 @@
   height: 200px;
   text-align: center;
 }
-
-button {
-  padding: 10px 20px;
-  background-color: #d729b7;
-  color: #0eaa86;
-  border: 10mm ridge rgba(211, 220, 50, 0.6);
-  border-radius: 10px;
-  font-size: 20px;
-}
