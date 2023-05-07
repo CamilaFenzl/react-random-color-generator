@@ -19,7 +19,11 @@
   flex-direction: column;
 }
 
-.App > div > button {
+.button-container {
+  text-align: center;
+}
+
+button {
   background-color: lightcoral;
   border: none;
   margin-top: 150px;
