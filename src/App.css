@@ -9,19 +9,12 @@
   flex-direction: column;
 }
 
-.App > div {
-  background-color: darksalmon;
+.App > div > button {
+  background-color: plum;
   padding: 40px 20px;
   margin: 40px;
   border-radius: 20px;
   width: 200px;
   height: 200px;
   text-align: center;
-}
-
-.App > div > button {
-  background-color: lightcoral;
-  border: none;
-  border-radius: 10px;
-  margin-top: 150px;
 }
