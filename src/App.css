@@ -18,15 +18,9 @@
   text-align: center;
 }
 
-button {
-  background-color: plum;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  position: fixed;
-  top: 70%;
-  left: 45%;
-  border: 2px solid #16c6e9;
+.App > div > button {
+  background-color: lightcoral;
+  border: none;
+  border-radius: 10px;
+  margin-top: 150px;
 }
